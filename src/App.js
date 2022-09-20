@@ -101,8 +101,7 @@ function App() {
               display: "block",
               margin: "0 auto",
               border: "1px solid black",
-              width: "192px",
-              height: "91px"
+              width: "192px"
             }}
           />
           <br />
